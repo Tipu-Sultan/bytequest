@@ -1,5 +1,13 @@
 # API Routes Documentation
 
+## Start Project
+- composer install
+
+create Database  name as bytequest in xammp
+
+run cmd:
+php artisan make migrate
+
 ## Postman used for testing
 
 #### http://127.0.0.1:8000/api/products
